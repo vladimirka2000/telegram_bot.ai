@@ -1,2 +1,2 @@
-#                                                                                             My project
+# My project
 project telegram bot with AI
